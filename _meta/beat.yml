@@ -1,0 +1,7 @@
+################### Spring2beat Configuration Example #########################
+
+############################# Spring2beat ######################################
+
+spring2beat:
+  # Defines how often an event is sent to the output
+  period: 1s
